@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-cv/static/css/main.6666fda6.css",
+    "main.js": "/react-cv/static/js/main.7b3d169c.js",
+    "static/media/sql.png": "/react-cv/static/media/sql.513ccf3828db78056d54.png",
+    "static/media/nativeBase.png": "/react-cv/static/media/nativeBase.f2ccd3396740ba7c00f1.png",
+    "static/media/reactLogo.png": "/react-cv/static/media/reactLogo.0cf951a69d8e58f83f9d.png",
+    "static/media/cSharp.png": "/react-cv/static/media/cSharp.af0ae0bef06cab77d7a3.png",
+    "static/media/AR.png": "/react-cv/static/media/AR.3351bd96c6b1513c1d05.png",
+    "static/media/html.png": "/react-cv/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-cv/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-cv/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-cv/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-cv/index.html",
+    "main.6666fda6.css.map": "/react-cv/static/css/main.6666fda6.css.map",
+    "main.7b3d169c.js.map": "/react-cv/static/js/main.7b3d169c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6666fda6.css",
+    "static/js/main.7b3d169c.js"
+  ]
+}
