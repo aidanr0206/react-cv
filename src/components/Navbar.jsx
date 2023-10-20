@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FaBars, FaLinkedin, FaTimes } from "react-icons/fa";
+import { FaBars, FaGithub, FaLinkedin, FaTimes } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { Link } from "react-scroll";
 import AR from "../assets/AR.png";
@@ -10,8 +10,10 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-full h-20 flex justify-between items-center px-4 bg-slate-800 text-gray-300">
-      <div>
-        <img src={AR} alt="Initials Logo" width="100px"></img>
+      <div className="hover:cursor-pointer">
+        <Link to="home" smooth={true} duration={500}>
+          <img src={AR} alt="Initials Logo" width="100px"></img>
+        </Link>
       </div>
 
       {/* menu */}
@@ -85,8 +87,8 @@ const Navbar = () => {
 
           {/* Email */}
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700">
-            <a className="flex justify-between items-center w-full text-gray-300" href="/">
-              Email <HiOutlineMail size={30}></HiOutlineMail>
+            <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/aidanr0206" target="_blank" rel="noreferrer">
+              GitHub <FaGithub size={30}></FaGithub>
             </a>
           </li>
         </ul>
