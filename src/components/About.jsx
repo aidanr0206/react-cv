@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-scroll";
 
 const About = () => {
   return (
@@ -16,11 +15,19 @@ const About = () => {
           <div className="sm:text-right text-4xl font-bold">
             <p>Welcome to my online CV, I hope you find everything you are looking for.</p>
           </div>
-          <div>
+
+          <div className="space-y-2">
             <p>
-              I am an extremely social and motivated individual who loves communicating to anyone and everyone I can. I have worked in many different environments from waitering, bartending and
-              modeling, to software development, commentating live e-sports games, hosting for e-sports tournaments and more. As someone who is confident and outgoing, I love social environments. And
-              with my technological background I also enjoy working with computers, as well as building and designing applications.
+              I studied a BCIS in game design and development at Vega School in Johannesburg and have worked in the
+              software industry for the past three years. I have had the opportunity to work in collaboration with team
+              members on various projects, ranging from developing mobile applications to designing complex software
+              systems. This has allowed me to gain a deep understanding of different programming languages and
+              frameworks, as well as hone my problem-solving skills. My diverse background has allowed me to develop
+              excellent interpersonal skills and adaptability.
+            </p>
+            <p>
+              Whether it's engaging with customers, collaborating with teammates, or presenting to large audiences, I
+              thrive in dynamic settings and enjoy the challenge of connecting with people from all walks of life.
             </p>
           </div>
         </div>
