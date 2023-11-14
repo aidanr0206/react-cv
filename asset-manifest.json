@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-cv/static/css/main.a2d78e8a.css",
-    "main.js": "/react-cv/static/js/main.6df86a9e.js",
+    "main.css": "/react-cv/static/css/main.ccf9e349.css",
+    "main.js": "/react-cv/static/js/main.ce8912c9.js",
     "static/media/sql.png": "/react-cv/static/media/sql.513ccf3828db78056d54.png",
     "static/media/nativeBase.png": "/react-cv/static/media/nativeBase.f2ccd3396740ba7c00f1.png",
     "static/media/reactLogo.png": "/react-cv/static/media/reactLogo.0cf951a69d8e58f83f9d.png",
@@ -12,11 +12,11 @@
     "static/media/css.png": "/react-cv/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/react-cv/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-cv/index.html",
-    "main.a2d78e8a.css.map": "/react-cv/static/css/main.a2d78e8a.css.map",
-    "main.6df86a9e.js.map": "/react-cv/static/js/main.6df86a9e.js.map"
+    "main.ccf9e349.css.map": "/react-cv/static/css/main.ccf9e349.css.map",
+    "main.ce8912c9.js.map": "/react-cv/static/js/main.ce8912c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2d78e8a.css",
-    "static/js/main.6df86a9e.js"
+    "static/css/main.ccf9e349.css",
+    "static/js/main.ce8912c9.js"
   ]
 }
